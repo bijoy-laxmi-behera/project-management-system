@@ -1,0 +1,27 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "Project Management System",
+  "keywords": [
+    "Frontend",
+    "Backend"
+  ],
+  "homepage": "https://github.com/bijoy-laxmi-behera/project-management-system#readme",
+  "bugs": {
+    "url": "https://github.com/bijoy-laxmi-behera/project-management-system/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bijoy-laxmi-behera/project-management-system.git"
+  },
+  "license": "ISC",
+  "author": "Bijoy Laxmi Behera",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.9.6"
+  }
+}
